@@ -1,3 +1,3 @@
 # provaSTW
-1. Tez de lisa
+1. Test de lista
 2. P
